@@ -6,6 +6,14 @@
 
 ---
 
+## 🌐 Socials
+
+📩 **Email:** [mbudzynski03@gmail.com](mailto:mbudzynski03@gmail.com)  
+💬 **LinkedIn:** [Mateusz Budzyński](https://www.linkedin.com/in/mateusz-budzy%C5%84ski-727795301/)  
+🏆 **LeetCode:** [Budzynek](https://leetcode.com/u/Budzynek/)  
+
+---
+
 ### 🧰 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
