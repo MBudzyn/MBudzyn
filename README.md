@@ -4,9 +4,10 @@
 🧩 Skilled in **algorithm design, problem-solving, and competitive programming**  
 💻 Experienced in **software development, web technologies, and building practical applications**  
 🎓 Currently a **4th-year Computer Science student at the University of Wrocław (UWR)**, working on courses and projects that complement my AI and software expertise  
-
+                
 🤝 Outside of tech, I’m an active member of the **Maciejówka Academic Ministry**, where I help organize **courses, events, and student trips**       
 🌍 You can find me here: [Maciejówka – Responsible Members](https://www.maciejowka.org/kontakt/odpowiedzialni/) · [Biały Dunajec](https://bialydunajec.org/maciejowka/)  
+💡 I also enjoy tutoring **mathematics and computer science**, sharing knowledge and helping others grow — experiences that have strengthened my **communication, leadership, and teaching skills**    
 
 --- 
 ## 🌐 Socials
