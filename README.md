@@ -14,13 +14,27 @@
 
 ---
 
+## 🎓 University
+
+I am a 4th-year Computer Science student at the **University of Wrocław**.  
+
+### 📘 Courses & Current Work:
+- **Language Models**
+- **Software Engineering I**
+- **Algorithm for Study Plan Optimization**
+- **Bachelor’s Thesis** – Developing a platform to learn graph theory through games  
+
+## 🏫 Repository
+- [University](https://github.com/MBudzyn/University/tree/master) – Lecture notes, lab assignments, and projects from my courses
+
+---
 ## 🧠 AI, Data Science & Machine Learning
 
 ### ✨ Description
 I enjoy exploring AI through research-oriented student projects, hands-on experiments, and automating data-driven workflows.  
 I like to implement models from scratch, test different architectures, and analyze the impact of various hyperparameters.
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -41,6 +55,30 @@ I like to implement models from scratch, test different architectures, and analy
 - 🎮 [ThousandAIBot](https://github.com/MBudzyn/University/tree/master/Projects/ThousandAIBot) 🎮 – AI bot using MCTS algorithm for the game 'Thousand'
 
 ---
+
+## 🧮 Algorithms & Data Structures
+
+### ✨ Description
+I enjoy solving algorithmic problems, exploring data structures, and optimizing solutions.  
+My practice ranges from competitive programming challenges to university exercises, helping me strengthen problem-solving skills and algorithmic thinking.
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-3C5C8C?style=for-the-badge&logo=racket&logoColor=white)
+
+### 📚 Repositories
+- 🧩 [LeetCode](https://github.com/MBudzyn/leetcode) 🧩 – Algorithmic challenges and solutions for practice and skill improvement  
+- 🧩 [AlgorithmAndDataStructures](https://github.com/MBudzyn/University/tree/master/AlgorithmsAndDataStructures) 🧩 – Notes, summaries, and exercises for exam preparation  
+- 🧩 [PracticalAlgorithmics2](https://github.com/MBudzyn/University/tree/master/PracticalAlgorithmics2) 🧩 – University assignments and algorithmic problem-solving exercises
+
+---
+
 
 
 ### 🧰 Programming Languages
