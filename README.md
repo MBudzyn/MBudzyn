@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mateusz Budzyń  
+# 👋 Hi there! I'm Mateusz Budzyński  
 
 🎓 I'm a **4th-year Computer Science student at the University of Wrocław (UWR)**  
 💻 Passionate about **software development, algorithms, and modern web technologies**  
