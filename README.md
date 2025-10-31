@@ -20,7 +20,7 @@ I am a 4th-year Computer Science student at the **University of Wrocław**.
 
 ### 📘 Courses & Current Work:
 - **Language Models**
-- **Software Engineering I**
+- **Software Engineering**
 - **Algorithm for Study Plan Optimization**
 - **Bachelor’s Thesis** – Developing a platform to learn graph theory through games  
 
