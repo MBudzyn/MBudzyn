@@ -14,6 +14,35 @@
 
 ---
 
+## 🧠 AI, Data Science & Machine Learning
+
+### ✨ Description
+I enjoy exploring AI through research-oriented student projects, hands-on experiments, and automating data-driven workflows.  
+I like to implement models from scratch, test different architectures, and analyze the impact of various hyperparameters.
+
+### 🛠️ Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FF7B00?style=for-the-badge&logo=wandb&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📚 Repositories
+- 🧬 [LanguageModels](https://github.com/MBudzyn/University/tree/master/LanguageModels) 🧬 – Assignments and experiments for the Language Models course  
+- 🧬 [NeuralNetworks](https://github.com/MBudzyn/University/tree/master/NeuralNetworks) 🧬 – Implementations of CNNs and RNNs from scratch, practical exercises  
+- 🧬 [MachineLearning](https://github.com/MBudzyn/University/tree/master/MachineLearning) 🧬 – Classical ML algorithms and lab notebooks  
+
+### 🚀 Projects
+- 🤹 [GesturePrediction](https://github.com/MBudzyn/University/tree/master/Projects/GesturePrediction) 🤹  – End-to-end ML project: gesture prediction with real-world datasets  
+- 🏐 [VNLGamePrediction](https://github.com/MBudzyn/University/tree/master/Projects/VNLGamePrediction) 🏐 – Neural network project predicting outcomes for VNL game  
+- 🎮 [ThousandAIBot](https://github.com/MBudzyn/University/tree/master/Projects/ThousandAIBot) 🎮 – AI bot using MCTS algorithm for the game 'Thousand'
+
+---
+
+
 ### 🧰 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
