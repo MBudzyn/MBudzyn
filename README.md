@@ -88,8 +88,6 @@ My practice ranges from competitive programming challenges to university exercis
 I have been developing my software engineering skills through internships, personal projects, and academic work.  
 My experience includes building web applications, full-stack solutions, and tools that improve workflows.
 
----
-
 ### 🛠️ Stack & Tools
 
 #### Frameworks & Frontend
@@ -112,8 +110,6 @@ My experience includes building web applications, full-stack solutions, and tool
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
----
-
 ### 💼 Internship — **BNY Mellon** *(June – August 2024, 10 weeks)*
 
 During my 10-week internship at **BNY Mellon**, I worked as a **Full-Stack Developer Intern** within a collaborative Agile team.  
@@ -128,8 +124,6 @@ The internship provided hands-on experience with both **Python** and **Java** ba
 - 🤝 Collaborated using **Jira**, **Git**, **Insomnia**, and Agile methodologies in a cross-functional team  
 
 This experience strengthened both my technical foundation and teamwork skills, providing valuable insight into professional software development workflows.
-
----
 
 ### 📂 Projects & Experience
 - **Bachelor’s Thesis** – Platform to learn graph theory through interactive educational games  
