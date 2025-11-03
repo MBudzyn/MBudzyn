@@ -88,7 +88,10 @@ My practice ranges from competitive programming challenges to university exercis
 I have been developing my software engineering skills through internships, personal projects, and academic work.  
 My experience includes building web applications, full-stack solutions, and tools that improve workflows.
 
+---
+
 ### 🛠️ Stack & Tools
+
 #### Frameworks & Frontend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -109,12 +112,26 @@ My experience includes building web applications, full-stack solutions, and tool
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### 📂 Projects & Experience
-- Internship at **BNY Mellon** – Gained practical experience in full-stack application development  
-- **Bachelor’s Thesis** – Platform to learn graph theory through games  
-- **Algorithm for Study Plan Optimization** – Web application project for optimizing course schedules  
-- **Frontend Repository with simple web interfaces** - [Frontend Repository](https://github.com/MBudzyn/University/tree/master/Frontend)  
+---
+
+### 💼 Internship — **BNY Mellon** *(June – August 2024, 10 weeks)*
+
+During my 10-week internship at **BNY Mellon**, I worked as a **Full-Stack Developer Intern** within a collaborative Agile team.  
+The internship provided hands-on experience with both **Python** and **Java** backends, **cloud deployment**, and **observability practices** in a large-scale enterprise environment.
+
+**Key contributions & skills developed:**
+- 🧩 Implemented and tested backend services using **FastAPI**, **context variables**, and **mocking frameworks**  
+- 🔁 Designed mock services in **Java** to simulate model behavior and evaluate application performance  
+- 🧪 Created **unit and integration tests** using **pytest**, **mock**, and **JUnit** to ensure reliability and coverage  
+- ☁️ Deployed and verified solutions on **Google Cloud App Engine**, working with **CI/CD pipelines** in **GitLab**  
+- 🧠 Gained exposure to **observability**, **distributed tracing**, **OAuth2 authorization**, and **service monitoring concepts**  
+- 🤝 Collaborated using **Jira**, **Git**, **Insomnia**, and Agile methodologies in a cross-functional team  
+
+This experience strengthened both my technical foundation and teamwork skills, providing valuable insight into professional software development workflows.
 
 ---
 
-
+### 📂 Projects & Experience
+- **Bachelor’s Thesis** – Platform to learn graph theory through interactive educational games  
+- **Algorithm for Study Plan Optimization** – Web application for optimizing university course schedules  
+- **Frontend Repository with simple web interfaces** – [Frontend Repository](https://github.com/MBudzyn/University/tree/master/Frontend)
