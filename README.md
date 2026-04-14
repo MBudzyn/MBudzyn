@@ -110,7 +110,7 @@ My experience includes building web applications, full-stack solutions, and tool
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### 💼 Internship — **BNY Mellon** *(June – August 2024, 10 weeks)*
+### 💼 Internship — **BNY Mellon** *(June – August 2025, 10 weeks)*
 
 During my 10-week internship at **BNY Mellon**, I worked as a **Full-Stack Developer Intern** within a collaborative Agile team.  
 The internship provided hands-on experience with both **Python** and **Java** backends, **cloud deployment**, and **observability practices** in a large-scale enterprise environment.
