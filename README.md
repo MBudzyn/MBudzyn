@@ -28,8 +28,9 @@
 - **Algorithm for Study Plan Optimization**
 - **Bachelor’s Thesis** – Developing a platform to learn graph theory through games  
 
-## 🏫 Repository
+## 🏫 Repositories
 - [University](https://github.com/MBudzyn/University/tree/master) – Lecture notes, lab assignments, and projects from my courses
+- [Bachelor's Thesis](https://github.com/mckk12/Grapheory) - Platform to learn graph theory through interactive educational games
 
 ---
 ## 🧠 AI, Data Science & Machine Learning
