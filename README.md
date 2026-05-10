@@ -17,6 +17,20 @@
 🏆 **LeetCode:** [Budzynek](https://leetcode.com/u/Budzynek/)  
 
 ---
+## 💼 Internship — **BNY Mellon** *(June – August 2025, 10 weeks)*
+
+During my 10-week internship at **BNY Mellon**, I worked as a **Full-Stack Developer Intern** within a collaborative Agile team.  
+The internship provided hands-on experience with both **Python** and **Java** backends, **cloud deployment**, and **observability practices** in a large-scale enterprise environment.
+
+**Key contributions & skills developed:**
+- 🧩 Implemented and tested backend services using **FastAPI**, **context variables**, and **mocking frameworks** in **Python**
+- 🔁 Designed mock services in **Java** to simulate model behavior and evaluate application performance  
+- 🧪 Created **unit and integration tests** using **pytest**, **mock**, and **JUnit** to ensure reliability and coverage  
+- ☁️ Deployed and verified solutions on **Google Cloud App Engine**, working with **CI/CD pipelines** in **GitLab**  
+- 🧠 Gained exposure to **observability**, **distributed tracing**, **OAuth2 authorization**, and **service monitoring concepts**  
+- 🤝 Collaborated using **Jira**, **Git**, **Insomnia**, and Agile methodologies in a cross-functional team  
+
+This experience strengthened both my technical foundation and teamwork skills, providing valuable insight into professional software development workflows.
 
 ## 🎓 University
 
@@ -97,6 +111,7 @@ My experience includes building web applications, full-stack solutions, and tool
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### Tools, IDE & Collaboration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -110,21 +125,6 @@ My experience includes building web applications, full-stack solutions, and tool
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### 💼 Internship — **BNY Mellon** *(June – August 2025, 10 weeks)*
-
-During my 10-week internship at **BNY Mellon**, I worked as a **Full-Stack Developer Intern** within a collaborative Agile team.  
-The internship provided hands-on experience with both **Python** and **Java** backends, **cloud deployment**, and **observability practices** in a large-scale enterprise environment.
-
-**Key contributions & skills developed:**
-- 🧩 Implemented and tested backend services using **FastAPI**, **context variables**, and **mocking frameworks**  
-- 🔁 Designed mock services in **Java** to simulate model behavior and evaluate application performance  
-- 🧪 Created **unit and integration tests** using **pytest**, **mock**, and **JUnit** to ensure reliability and coverage  
-- ☁️ Deployed and verified solutions on **Google Cloud App Engine**, working with **CI/CD pipelines** in **GitLab**  
-- 🧠 Gained exposure to **observability**, **distributed tracing**, **OAuth2 authorization**, and **service monitoring concepts**  
-- 🤝 Collaborated using **Jira**, **Git**, **Insomnia**, and Agile methodologies in a cross-functional team  
-
-This experience strengthened both my technical foundation and teamwork skills, providing valuable insight into professional software development workflows.
 
 ### 📂 Projects & Experience
 - **Bachelor’s Thesis** – Platform to learn graph theory through interactive educational games - [Grapheory](https://github.com/mckk12/Grapheory)
