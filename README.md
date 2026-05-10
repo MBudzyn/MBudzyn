@@ -126,6 +126,6 @@ The internship provided hands-on experience with both **Python** and **Java** ba
 This experience strengthened both my technical foundation and teamwork skills, providing valuable insight into professional software development workflows.
 
 ### 📂 Projects & Experience
-- **Bachelor’s Thesis** – Platform to learn graph theory through interactive educational games  
+- **Bachelor’s Thesis** – Platform to learn graph theory through interactive educational games - [Grapheory](https://github.com/mckk12/Grapheory)
 - **Algorithm for Study Plan Optimization** – Web application for optimizing university course schedules  
 - **Frontend Repository with simple web interfaces** – [Frontend Repository](https://github.com/MBudzyn/University/tree/master/Frontend)
