@@ -48,12 +48,17 @@ This experience strengthened both my technical foundation and teamwork skills, p
 
 ---
 ## 🧠 AI, Data Science & Machine Learning
-
+ 
 ### ✨ Description
+ 
 I enjoy exploring AI through research-oriented student projects, hands-on experiments, and automating data-driven workflows.  
-I like to implement models from scratch, test different architectures, and analyze the impact of various hyperparameters.
-
+I like to implement models from scratch, test different architectures, and analyze the impact of various hyperparameters.  
+Recently I have been focusing on **LLM-based agents and automation**: tool-calling agents with deterministic guardrails, evaluation of their behavior, and workflow automation around language models.
+ 
 ### 🛠️ Tech Stack
+ 
+**Machine Learning & Data**
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -62,17 +67,36 @@ I like to implement models from scratch, test different architectures, and analy
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FF7B00?style=for-the-badge&logo=wandb&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+ 
+**LLM Agents & Automation**
+ 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+ 
 ### 📚 Repositories
-- 🧬 [LanguageModels](https://github.com/MBudzyn/University/tree/master/LanguageModels) 🧬 – Assignments and experiments for the Language Models course  
-- 🧬 [NeuralNetworks](https://github.com/MBudzyn/University/tree/master/NeuralNetworks) 🧬 – Implementations of CNNs and RNNs from scratch, practical exercises  
-- 🧬 [MachineLearning](https://github.com/MBudzyn/University/tree/master/MachineLearning) 🧬 – Classical ML algorithms and lab notebooks  
-
+ 
+- 🧬 [LanguageModels](https://github.com/MBudzyn/University/tree/master/LanguageModels) 🧬 – Assignments and experiments for the Language Models course
+- 🧬 [NeuralNetworks](https://github.com/MBudzyn/University/tree/master/NeuralNetworks) 🧬 – Implementations of CNNs and RNNs from scratch, practical exercises
+- 🧬 [MachineLearning](https://github.com/MBudzyn/University/tree/master/MachineLearning) 🧬 – Classical ML algorithms and lab notebooks
 ### 🚀 Projects
-- 🤹 [GesturePrediction](https://github.com/MBudzyn/University/tree/master/Projects/GesturePrediction) 🤹  – End-to-end ML project: gesture prediction with real-world datasets  
-- 🏐 [VNLGamePrediction](https://github.com/MBudzyn/University/tree/master/Projects/VNLGamePrediction) 🏐 – Neural network project predicting outcomes for VNL game  
+ 
+- 🤖 [CityWheels Help Desk Agent](https://github.com/MBudzyn/help-desk-agent) 🤖 – Tool-calling customer-support agent (LangGraph + Gemini) with deterministic refund logic computed in Python instead of by the LLM, an offline pytest suite, a live evaluation harness with failure analysis, Docker, and GitHub Actions CI
+- 🤹 [GesturePrediction](https://github.com/MBudzyn/University/tree/master/Projects/GesturePrediction) 🤹 – End-to-end ML project: gesture prediction with real-world datasets
+- 🏐 [VNLGamePrediction](https://github.com/MBudzyn/University/tree/master/Projects/VNLGamePrediction) 🏐 – Neural network project predicting outcomes for VNL game
 - 🎮 [ThousandAIBot](https://github.com/MBudzyn/University/tree/master/Projects/ThousandAIBot) 🎮 – AI bot using MCTS algorithm for the game 'Thousand'
-
+### ⚙️ Automation: AI News Digest (n8n)
+ 
+I designed an end-to-end **n8n workflow** that keeps me up to date with the AI field without manual searching. The workflow pulls current AI articles from external sources; the API requests were designed and tested in **Postman** before being wired into n8n. Each article is then passed to a **language model**, which analyzes it and scores how interesting and relevant it is. Articles, scores, and the model's summaries are stored in a **database**, so the full history stays searchable. Every day the workflow assembles the best-rated items and sends me a **digest by email**.
+ 
+**Stack:** n8n · Postman · REST APIs · LLM scoring · database · scheduled email delivery
+ 
 ---
 
 ## 🧮 Algorithms & Data Structures
